@@ -4,12 +4,10 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-layout: frontpage
+layout: page-fullwidth 
+#frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
----  
-*Feeling Responsive* is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about [constructing  beautiful layouts][1] in the foundation documentation.
-
   
 widget1:
   title: "Blog222 & Portfolio"
