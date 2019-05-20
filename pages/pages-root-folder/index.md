@@ -7,7 +7,7 @@
 layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
-  
+---  
 *Feeling Responsive* is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about [constructing  beautiful layouts][1] in the foundation documentation.
 
   
