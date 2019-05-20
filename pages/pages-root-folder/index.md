@@ -9,8 +9,14 @@ header:
   image_fullwidth: header_unsplash_12.jpg
   
 title:  "Welcome to NeCOL"
-subheadline:  " An Innovative Methodology for Building Better Deep Learning Tools for Real Word Applications"
-teaser: "The full-width page format gives you all the space you need to show your content using the grid."
+subheadline:  "An Innovative Methodology for Building Better Deep Learning Tools for Real Word Applications"
+teaser: "*Parrafo hablando* del proyecto y de los 
+- NeCOL es un proyecto Marie-Curie
+- Objetivo principal CoEvolutivos para DL
+- involucrados: Jamal, ALFA y NEO. An Innovative 
+"
+#*Feeling Responsive* is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about [constructing  beautiful layouts][1] in the foundation documentation.
+
   
 widget1:
   title: "Jamal Toutouh"
