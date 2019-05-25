@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000//</id>
 	<title>NeCOL</title>
-	<updated>2019-05-25T13:34:34-04:00</updated>
+	<updated>2019-05-25T16:19:43-04:00</updated>
 
 	<subtitle>This website presents the main outcomes of &lt;strong&gt;NeCOL project&lt;/strong&gt; under the &lt;strong&gt;Marie Sklodowska-Curie grant agreement No 799078&lt;/strong&gt;.</subtitle>
 
@@ -30,6 +30,55 @@
 
 	
 		<entry>
+			<id>http://localhost:4000//publications/swm-journal-accepted/</id>
+			<title>Smart waste management by using integer programming</title>
+			<link href="http://localhost:4000//publications/swm-journal-accepted/" rel="alternate" type="text/html" title="Smart waste management by using integer programming" />
+			<updated>2019-05-05T00:00:00-04:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Jamal Toutouh</name>
+					
+					
+						<email>toutouh@mit.edu</email>
+					
+					
+						<uri>http://www.jamal.es/</uri>
+					
+				</author>
+			
+			<summary>Our work applying integer programming to address the smart location of waste collection points (bins) has been accepted to be published in &lt;emph&gt;Revista de Ingeniería&lt;/emph&gt; journal</summary>
+			<content type="html" xml:base="http://localhost:4000//publications/swm-journal-accepted/">&lt;p&gt;In this work, we have addressed the location of bins in two real cities (&lt;strong&gt;Montevideo&lt;/strong&gt; and &lt;strong&gt;Buenos Aires&lt;/strong&gt;) as an optimization problem. The idea is to provide an efficient waste management system that provides the best quality-of-service possible, while minimizing the budget.&lt;/p&gt;
+
+&lt;p&gt;We have defined the problem and we have addressed it by using exact optimization methods &lt;strong&gt;integer programming&lt;/strong&gt; and a greedy algorithm based on &lt;strong&gt;PageRank&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The full paper can be found &lt;a href=&quot;https://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/335926&quot; title=&quot;FULL PAPER&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;a-bi-objective-integer-programming-model-for-locating-garbage-accumulation-points-a-case-study&quot;&gt;A bi-objective integer programming model for locating garbage accumulation points a case study&lt;/h3&gt;
+&lt;h4 id=&quot;abstract&quot;&gt;Abstract&lt;/h4&gt;
+&lt;p&gt;Enhancing efficiency in Municipal Solid Waste (MSW) management is crucial for local governments, which are generally in charge of collection, since this activity explains a large proportion of their budgetary expenses. The incorporation of decision support tools can contribute to improve the MSW system, specially by reducing the required investment of funds. This article proposes a mathematical formulation, based on integer programming, to determine the location of garbage accumulation points while minimizing the expenses of the system, i.e., the installment cost of bins and the required number of visits the collection vehicle which is related with the routing cost of the collection. The model was tested in some scenarios of an important Argentinian city that stills has a door-to-door system, including instances with unsorted waste, which is the current situation of the city, and also instances with source classified waste. Although the scenarios with classified waste evidenced to be more challenging for the proposed resolution approach, a set of solutions was provided in all scenarios. These solutions can be used as a starting point for migrating from the current door-to-door system to a community bins system.&lt;/p&gt;
+
+</content>
+
+			
+				<category term="publications" />
+			
+			
+				<category term="publication" />
+			
+				<category term="journal" />
+			
+				<category term="jamal" />
+			
+				<category term="smart cities" />
+			
+
+			<published>2019-05-05T00:00:00-04:00</published>
+		</entry>
+	
+		<entry>
 			<id>http://localhost:4000//publications/gecco-accepted/</id>
 			<title>GECCO Paper Accepted</title>
 			<link href="http://localhost:4000//publications/gecco-accepted/" rel="alternate" type="text/html" title="GECCO Paper Accepted" />
@@ -51,6 +100,8 @@
 			
 			<summary>We have received quite positive feedback from the reviewing process and we will present Mustangs in GECCO 2019.</summary>
 			<content type="html" xml:base="http://localhost:4000//publications/gecco-accepted/">&lt;p&gt;We are happy to inform that our paper &lt;em&gt;Spatial Evolutionary Generative Adversarial Networks&lt;/em&gt; has been accepted as a FULL PAPER to be presented during &lt;a href=&quot;https://gecco-2019.sigevo.org/&quot; title=&quot;GECCO 2019&quot;&gt;GECCO 2019&lt;/a&gt;. GECCO is one of the most important conferences in the field of evolutionary computation.&lt;/p&gt;
+
+&lt;p&gt;The full paper can be found &lt;a href=&quot;http://alfagroup.csail.mit.edu/sites/default/files/documents/2019Spatial_Evolutionary_Generative_Adversarial_Networks.pdf&quot; title=&quot;FULL PAPER&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;spatial-evolutionary-generative-adversarial-networks&quot;&gt;Spatial Evolutionary Generative Adversarial Networks&lt;/h3&gt;
 &lt;h4 id=&quot;abstract&quot;&gt;Abstract&lt;/h4&gt;
