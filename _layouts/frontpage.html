@@ -25,6 +25,13 @@ format: frontpage
 			</p>
 			{% endif %}
 
+            {% if page.text %}
+			<p>
+				{{ page.text }}
+			</p>
+			{% endif %}
+
+
 			{{ content }}
 		</article>
 	</div><!-- /.medium-12.columns -->

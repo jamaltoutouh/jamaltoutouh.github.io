@@ -10,11 +10,15 @@ header:
   
 title:  "Welcome to NeCOL"
 subheadline:  "An Innovative Methodology for Building Better Deep Learning Tools for Real Word Applications"
-teaser: "*Parrafo hablando* del proyecto y de los 
-- NeCOL es un proyecto Marie-Curie
-- Objetivo principal CoEvolutivos para DL
-- involucrados: Jamal, ALFA y NEO. An Innovative 
-"
+teaser: This website presents the main outcomes of <strong>NeCOL project</strong> under the <strong>Marie Sklodowska-Curie grant agreement No 799078</strong>. 
+ 
+ 
+text: "<p>NeCOL has the relevant scientific goal of the development of efficient deep learning (DL) based on the use of co-evolutionary algorithms (CEAs) for real world applications. Hence the name of the project, <strong>Neural CO-evoltionary Learning</strong> or <strong>NeCOL</strong>. We want to tackle applications of importance in present societies, such as cybersecurity and Smart Cities (SC).</p><p>This project is funded by European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie Individual Fellowship grant agreement No 799078. NeCOL involves <strong>Jamal Toutouh, PhD.</strong> as the Marie Sklodowska-Curie fellow and main researcher and two research groups: <strong>NEO</strong> (Networking and Emerging Optimization) at the University of Malaga (UMA) in Europe (Spain) and <strong>ALFA</strong> (Anyscale Learning For All) at the Massachusetts Institute of Technology (MIT) in USA. </p>"
+
+ 
+
+
+
 #*Feeling Responsive* is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about [constructing  beautiful layouts][1] in the foundation documentation.
 
   
