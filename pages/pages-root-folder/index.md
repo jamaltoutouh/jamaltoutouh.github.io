@@ -26,7 +26,7 @@ widget1:
   title: "Jamal Toutouh"
   url: 'http://jamal.es'
   image: jamal-302x182.jpg
-  text: 'Jamal mini info bla, bla, bla, Info...bla, bla, bla, Info...bla, bla, bla, Info...bla, bla, bla, Info...bla, bla, bla, Info...bla, bla, bla, Info...bla, bla, bla, Info...bla, bla, bla.'
+  text: 'This Marie Sklodowska-Curie fellow works on the use of Artificial Intelligence to improve the life of EU citizens, without leaving the vulnerable population behind.'
 #widget2:
 #  title: "Why use this theme?"
 #  url: 'http://phlow.github.io/feeling-responsive/info/'
@@ -36,12 +36,13 @@ widget2:
   title: "ALFA Group"
   url: 'http://alfagroup.csail.mit.edu/'
   image: alfa-logo.jpg
-  text: 'ALFA bla, bla, bla, Info...bla, bla, bla, Info...bla, bla, bla, Info...bla, bla, bla, Info...bla, bla, bla, Info...bla, bla, bla, Info...bla, bla, bla, Info...bla, bla, bla, Info...'
+  text: 'ALFA is distinguished by its work on scalable machine learning (ML) and data science frameworks for large-scale knowledge mining, prediction, analytics, and optimization.'
 widget3:
   title: "NEO Group"
   url: 'http://neo.lcc.uma.es/'
   image: neo-logo.jpg
-  text: 'NEO bla, bla, bla, Info...bla, bla, bla, Info...bla, bla, bla, Info...bla, bla, bla, Info...bla, bla, bla, Info...bla, bla, bla, Info...bla, bla, bla, Info...bla, bla, bla, Info...'
+  text: 'NEO is a leading group in the domain of advanced optimization, principally using evolutionary algorithms
+(EAs) and swarm intelligence and their application in the real world.'
 #
 # Use the call for action to show a button on the frontpage
 #
