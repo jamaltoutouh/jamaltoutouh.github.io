@@ -4,24 +4,23 @@ layout: page
 # Content
 #
 
-#subheadline: "Testing Subhead Line"
-title: "NeCOL Project Website Launched"
-teaser: "NeCOL is becoming a reality and we are ready to present here most of the outcomes of this project."
+subheadline: "NeCOL landed in Uruguay"
+title: "Visiting Universidad de la Republica"
+teaser: "NeCOL research was presented in two semminars at Universidad de la Republica to share with other researcher our experience."
 categories:
-  - general
-tags:
-  - website
-  - content
-  - jamal
   - communication
+tags:
+  - semminar
+  - jamal
+
 #
 # Styling
 #
 header: no
 image: 
     title: montevideo-head.jpg
-#    thumb: mediaplayer_js-thumb.jpg
     homepage: montevideo-page.jpg
+#    thumb: mediaplayer_js-thumb.jpg
 #    caption: Photo by Corey Blaz
 #    caption_url: https://blaz.photography/
 mediaplayer: true
