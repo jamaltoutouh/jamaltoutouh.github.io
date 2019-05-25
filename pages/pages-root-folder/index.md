@@ -35,12 +35,12 @@ widget1:
 widget2:
   title: "ALFA Group"
   url: 'http://alfagroup.csail.mit.edu/'
-  image: widget-1-302x182.jpg
+  image: alfa-logo.jpg
   text: 'ALFA bla, bla, bla, Info...bla, bla, bla, Info...bla, bla, bla, Info...bla, bla, bla, Info...bla, bla, bla, Info...bla, bla, bla, Info...bla, bla, bla, Info...bla, bla, bla, Info...'
 widget3:
   title: "NEO Group"
   url: 'http://neo.lcc.uma.es/'
-  image: widget-github-303x182.jpg
+  image: neo-logo.jpg
   text: 'NEO bla, bla, bla, Info...bla, bla, bla, Info...bla, bla, bla, Info...bla, bla, bla, Info...bla, bla, bla, Info...bla, bla, bla, Info...bla, bla, bla, Info...bla, bla, bla, Info...'
 #
 # Use the call for action to show a button on the frontpage
@@ -66,10 +66,11 @@ permalink: /index.html
 #
 homepage: true
 ---
-
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
+<!--
+#<div id="videoModal" class="reveal-modal large" data-reveal="">
+#  <div class="flex-video widescreen vimeo" style="display: block;">
+#    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
+#  </div>
+#  <a class="close-reveal-modal">&#215;</a>
+#</div>
+-->
