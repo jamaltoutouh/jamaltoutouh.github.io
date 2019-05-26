@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://jamaltoutouh.github.io//assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="https://jamaltoutouh.github.io//assets/css/rss.css" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:4000//assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="http://localhost:4000//assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>NeCOL</title>
 		<description>This website presents the main outcomes of &lt;strong&gt;NeCOL project&lt;/strong&gt; under the &lt;strong&gt;Marie Sklodowska-Curie grant agreement No 799078&lt;/strong&gt;.</description>
-		<link>https://jamaltoutouh.github.io//</link>
-		<atom:link href="https://jamaltoutouh.github.io//feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://localhost:4000//</link>
+		<atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Smart waste management by using integer programming</title>
-				<link>https://jamaltoutouh.github.io//publications/swm-journal-accepted/</link>
+				<link>http://localhost:4000//publications/swm-journal-accepted/</link>
 				<pubDate>Sun, 05 May 2019 00:00:00 -0400</pubDate>
 				<description>&lt;p&gt;In this work, we have addressed the location of bins in two real cities (&lt;strong&gt;Montevideo&lt;/strong&gt; and &lt;strong&gt;Buenos Aires&lt;/strong&gt;) as an optimization problem. The idea is to provide an efficient waste management system that provides the best quality-of-service possible, while minimizing the budget.&lt;/p&gt;
 
@@ -23,12 +23,12 @@
 &lt;p&gt;Enhancing efficiency in Municipal Solid Waste (MSW) management is crucial for local governments, which are generally in charge of collection, since this activity explains a large proportion of their budgetary expenses. The incorporation of decision support tools can contribute to improve the MSW system, specially by reducing the required investment of funds. This article proposes a mathematical formulation, based on integer programming, to determine the location of garbage accumulation points while minimizing the expenses of the system, i.e., the installment cost of bins and the required number of visits the collection vehicle which is related with the routing cost of the collection. The model was tested in some scenarios of an important Argentinian city that stills has a door-to-door system, including instances with unsorted waste, which is the current situation of the city, and also instances with source classified waste. Although the scenarios with classified waste evidenced to be more challenging for the proposed resolution approach, a set of solutions was provided in all scenarios. These solutions can be used as a starting point for migrating from the current door-to-door system to a community bins system.&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://jamaltoutouh.github.io//publications/swm-journal-accepted/</guid>
+				<guid isPermaLink="true">http://localhost:4000//publications/swm-journal-accepted/</guid>
 			</item>
 		
 			<item>
 				<title>GECCO 2019 Paper Accepted</title>
-				<link>https://jamaltoutouh.github.io//publications/gecco-accepted/</link>
+				<link>http://localhost:4000//publications/gecco-accepted/</link>
 				<pubDate>Thu, 11 Apr 2019 00:00:00 -0400</pubDate>
 				<description>&lt;p&gt;We are happy to inform that our paper &lt;em&gt;Spatial Evolutionary Generative Adversarial Networks&lt;/em&gt; has been accepted as a FULL PAPER to be presented during &lt;a href=&quot;https://gecco-2019.sigevo.org/&quot; title=&quot;GECCO 2019&quot;&gt;GECCO 2019&lt;/a&gt;. GECCO is one of the most important conferences in the field of evolutionary computation.&lt;/p&gt;
 
@@ -39,12 +39,12 @@
 &lt;p&gt;Generative adversary networks (GANs) suffer from training pathologies such as instability and mode collapse. These pathologies mainly arise from a lack of diversity in their adversarial interactions. Evolutionary generative adversarial networks apply the principles of evolutionary computation to mitigate these problems. We hybridize two of these approaches that promote training diversity. One, E-GAN, at each batch, injects mutation diversity by training the (replicated) generator with three independent objective functions then selecting the resulting best performing generator for the next batch. The other, Lipizzaner, injects population diversity by training a two-dimensional grid of GANs with a distributed evolutionary algorithm that includes neighbor exchanges of additional training adversaries, performance based selection and population-based hyper-parameter tuning. We propose to combine mutation and population approaches to diversity improvement. We contribute a superior evolutionary GANs training method, Mustangs, that eliminates the single loss function used across Lipizzaner ’s grid. Instead, each training round, a loss function is selected with equiprobability, from among the three E-GAN uses. Experimental analyses on a standard benchmark, MNIST, demonstrate that Mustangs provides a statistically faster training method resulting in more accurate networks.&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://jamaltoutouh.github.io//publications/gecco-accepted/</guid>
+				<guid isPermaLink="true">http://localhost:4000//publications/gecco-accepted/</guid>
 			</item>
 		
 			<item>
 				<title>Paper Submitted to GECCO</title>
-				<link>https://jamaltoutouh.github.io//publications/gecco-submitted/</link>
+				<link>http://localhost:4000//publications/gecco-submitted/</link>
 				<pubDate>Wed, 06 Feb 2019 00:00:00 -0500</pubDate>
 				<description>&lt;p&gt;We are glad to inform that we have been able to prepare and show some interesting results about our research in fostering diversity when training genertive adversarial networks applying a coevolutionary mehtod. In this case, we have increased the diversity by applying different mutation operators (loss functions) during the trainig process. The proposed framework is named &lt;strong&gt;Mustangs&lt;/strong&gt; and the paper is entitled &lt;em&gt;Spatial Evolutionary Generative Adversarial Networks&lt;/em&gt;. We will be really happy if we are able to present the paper during &lt;a href=&quot;https://gecco-2019.sigevo.org/&quot; title=&quot;GECCO 2019&quot;&gt;GECCO 2019&lt;/a&gt;.&lt;/p&gt;
 
@@ -55,16 +55,16 @@
 &lt;p&gt;Generative adversary networks (GANs) suffer from training pathologies such as instability and mode collapse. These pathologies mainly arise from a lack of diversity in their adversarial interactions. Evolutionary generative adversarial networks apply the principles of evolutionary computation to mitigate these problems. We hybridize two of these approaches that promote training diversity. One, E-GAN, at each batch, injects mutation diversity by training the (replicated) generator with three independent objective functions then selecting the resulting best performing generator for the next batch. The other, Lipizzaner, injects population diversity by training a two-dimensional grid of GANs with a distributed evolutionary algorithm that includes neighbor exchanges of additional training adversaries, performance based selection and population-based hyper-parameter tuning. We propose to combine mutation and population approaches to diversity improvement. We contribute a superior evolutionary GANs training method, Mustangs, that eliminates the single loss function used across Lipizzaner ’s grid. Instead, each training round, a loss function is selected with equiprobability, from among the three E-GAN uses. Experimental analyses on a standard benchmark, MNIST, demonstrate that Mustangs provides a statistically faster training method resulting in more accurate networks.&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://jamaltoutouh.github.io//publications/gecco-submitted/</guid>
+				<guid isPermaLink="true">http://localhost:4000//publications/gecco-submitted/</guid>
 			</item>
 		
 			<item>
 				<title>NeCOL Project Website Launched</title>
-				<link>https://jamaltoutouh.github.io//general/launched/</link>
+				<link>http://localhost:4000//general/launched/</link>
 				<pubDate>Sat, 15 Sep 2018 00:00:00 -0400</pubDate>
 				<description>&lt;p&gt;NeCOL is a decir quien financia, las fechas, etc. y el tipo de cosas que vamos a publicar.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">https://jamaltoutouh.github.io//general/launched/</guid>
+				<guid isPermaLink="true">http://localhost:4000//general/launched/</guid>
 			</item>
 		
 	</channel>
