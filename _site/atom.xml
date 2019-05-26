@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000//</id>
 	<title>NeCOL</title>
-	<updated>2019-05-25T17:22:00-04:00</updated>
+	<updated>2019-05-26T05:17:42-04:00</updated>
 
 	<subtitle>This website presents the main outcomes of &lt;strong&gt;NeCOL project&lt;/strong&gt; under the &lt;strong&gt;Marie Sklodowska-Curie grant agreement No 799078&lt;/strong&gt;.</subtitle>
 
@@ -28,42 +28,6 @@
 
 	<generator uri="http://jekyllrb.com" version="3.8.5">Jekyll</generator>
 
-	
-		<entry>
-			<id>http://localhost:4000//communication/montevideo/</id>
-			<title>Visiting Universidad de la Republica</title>
-			<link href="http://localhost:4000//communication/montevideo/" rel="alternate" type="text/html" title="Visiting Universidad de la Republica" />
-			<updated>2019-05-24T00:00:00-04:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Jamal Toutouh</name>
-					
-					
-						<email>toutouh@mit.edu</email>
-					
-					
-						<uri>http://www.jamal.es/</uri>
-					
-				</author>
-			
-			<summary>NeCOL research was presented in two semminars at Universidad de la Republica to share with other researcher our experience.</summary>
-			<content type="html" xml:base="http://localhost:4000//communication/montevideo/">&lt;p&gt;NeCOL is a decir quien financia, las fechas, etc. y el tipo de cosas que vamos a publicar.&lt;/p&gt;
-</content>
-
-			
-				<category term="communication" />
-			
-			
-				<category term="semminar" />
-			
-				<category term="jamal" />
-			
-
-			<published>2019-05-24T00:00:00-04:00</published>
-		</entry>
 	
 		<entry>
 			<id>http://localhost:4000//publications/swm-journal-accepted/</id>
@@ -116,8 +80,8 @@
 	
 		<entry>
 			<id>http://localhost:4000//publications/gecco-accepted/</id>
-			<title>GECCO Paper Accepted</title>
-			<link href="http://localhost:4000//publications/gecco-accepted/" rel="alternate" type="text/html" title="GECCO Paper Accepted" />
+			<title>GECCO 2019 Paper Accepted</title>
+			<link href="http://localhost:4000//publications/gecco-accepted/" rel="alternate" type="text/html" title="GECCO 2019 Paper Accepted" />
 			<updated>2019-04-11T00:00:00-04:00</updated>
 
 			

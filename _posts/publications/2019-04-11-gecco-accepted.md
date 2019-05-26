@@ -5,7 +5,7 @@ layout: page
 #
 
 subheadline: "See you in Prague!!!"
-title: "GECCO Paper Accepted"
+title: "GECCO 2019 Paper Accepted"
 teaser: "We have received quite positive feedback from the reviewing process and we will present Mustangs in GECCO 2019."
 categories:
   - publications

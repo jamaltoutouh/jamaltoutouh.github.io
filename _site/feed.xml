@@ -9,15 +9,6 @@
 		<atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Visiting Universidad de la Republica</title>
-				<link>http://localhost:4000//communication/montevideo/</link>
-				<pubDate>Fri, 24 May 2019 00:00:00 -0400</pubDate>
-				<description>&lt;p&gt;NeCOL is a decir quien financia, las fechas, etc. y el tipo de cosas que vamos a publicar.&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">http://localhost:4000//communication/montevideo/</guid>
-			</item>
-		
-			<item>
 				<title>Smart waste management by using integer programming</title>
 				<link>http://localhost:4000//publications/swm-journal-accepted/</link>
 				<pubDate>Sun, 05 May 2019 00:00:00 -0400</pubDate>
@@ -36,7 +27,7 @@
 			</item>
 		
 			<item>
-				<title>GECCO Paper Accepted</title>
+				<title>GECCO 2019 Paper Accepted</title>
 				<link>http://localhost:4000//publications/gecco-accepted/</link>
 				<pubDate>Thu, 11 Apr 2019 00:00:00 -0400</pubDate>
 				<description>&lt;p&gt;We are happy to inform that our paper &lt;em&gt;Spatial Evolutionary Generative Adversarial Networks&lt;/em&gt; has been accepted as a FULL PAPER to be presented during &lt;a href=&quot;https://gecco-2019.sigevo.org/&quot; title=&quot;GECCO 2019&quot;&gt;GECCO 2019&lt;/a&gt;. GECCO is one of the most important conferences in the field of evolutionary computation.&lt;/p&gt;
