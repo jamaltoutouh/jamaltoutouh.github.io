@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="//assets/xslt/atom.xslt" ?>
 <?xml-stylesheet type="text/css" href="//assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>http://localhost:4000//</id>
+	<id>https://jamaltoutouh.github.io//</id>
 	<title>NeCOL</title>
-	<updated>2019-05-26T05:17:42-04:00</updated>
+	<updated>2019-05-26T05:30:07-04:00</updated>
 
 	<subtitle>This website presents the main outcomes of &lt;strong&gt;NeCOL project&lt;/strong&gt; under the &lt;strong&gt;Marie Sklodowska-Curie grant agreement No 799078&lt;/strong&gt;.</subtitle>
 
@@ -23,16 +23,16 @@
 		</author>
 	
 
-	<link href="http://localhost:4000//atom.xml" rel="self" type="application/rss+xml" />
-	<link href="http://localhost:4000//" rel="alternate" type="text/html" />
+	<link href="https://jamaltoutouh.github.io//atom.xml" rel="self" type="application/rss+xml" />
+	<link href="https://jamaltoutouh.github.io//" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="3.8.5">Jekyll</generator>
 
 	
 		<entry>
-			<id>http://localhost:4000//publications/swm-journal-accepted/</id>
+			<id>https://jamaltoutouh.github.io//publications/swm-journal-accepted/</id>
 			<title>Smart waste management by using integer programming</title>
-			<link href="http://localhost:4000//publications/swm-journal-accepted/" rel="alternate" type="text/html" title="Smart waste management by using integer programming" />
+			<link href="https://jamaltoutouh.github.io//publications/swm-journal-accepted/" rel="alternate" type="text/html" title="Smart waste management by using integer programming" />
 			<updated>2019-05-05T00:00:00-04:00</updated>
 
 			
@@ -50,7 +50,7 @@
 				</author>
 			
 			<summary>Our work applying integer programming to address the smart location of waste collection points (bins) has been accepted to be published in &lt;emph&gt;Revista de Ingeniería&lt;/emph&gt; journal</summary>
-			<content type="html" xml:base="http://localhost:4000//publications/swm-journal-accepted/">&lt;p&gt;In this work, we have addressed the location of bins in two real cities (&lt;strong&gt;Montevideo&lt;/strong&gt; and &lt;strong&gt;Buenos Aires&lt;/strong&gt;) as an optimization problem. The idea is to provide an efficient waste management system that provides the best quality-of-service possible, while minimizing the budget.&lt;/p&gt;
+			<content type="html" xml:base="https://jamaltoutouh.github.io//publications/swm-journal-accepted/">&lt;p&gt;In this work, we have addressed the location of bins in two real cities (&lt;strong&gt;Montevideo&lt;/strong&gt; and &lt;strong&gt;Buenos Aires&lt;/strong&gt;) as an optimization problem. The idea is to provide an efficient waste management system that provides the best quality-of-service possible, while minimizing the budget.&lt;/p&gt;
 
 &lt;p&gt;We have defined the problem and we have addressed it by using exact optimization methods &lt;strong&gt;integer programming&lt;/strong&gt; and a greedy algorithm based on &lt;strong&gt;PageRank&lt;/strong&gt;.&lt;/p&gt;
 
@@ -79,9 +79,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000//publications/gecco-accepted/</id>
+			<id>https://jamaltoutouh.github.io//publications/gecco-accepted/</id>
 			<title>GECCO 2019 Paper Accepted</title>
-			<link href="http://localhost:4000//publications/gecco-accepted/" rel="alternate" type="text/html" title="GECCO 2019 Paper Accepted" />
+			<link href="https://jamaltoutouh.github.io//publications/gecco-accepted/" rel="alternate" type="text/html" title="GECCO 2019 Paper Accepted" />
 			<updated>2019-04-11T00:00:00-04:00</updated>
 
 			
@@ -99,7 +99,7 @@
 				</author>
 			
 			<summary>We have received quite positive feedback from the reviewing process and we will present Mustangs in GECCO 2019.</summary>
-			<content type="html" xml:base="http://localhost:4000//publications/gecco-accepted/">&lt;p&gt;We are happy to inform that our paper &lt;em&gt;Spatial Evolutionary Generative Adversarial Networks&lt;/em&gt; has been accepted as a FULL PAPER to be presented during &lt;a href=&quot;https://gecco-2019.sigevo.org/&quot; title=&quot;GECCO 2019&quot;&gt;GECCO 2019&lt;/a&gt;. GECCO is one of the most important conferences in the field of evolutionary computation.&lt;/p&gt;
+			<content type="html" xml:base="https://jamaltoutouh.github.io//publications/gecco-accepted/">&lt;p&gt;We are happy to inform that our paper &lt;em&gt;Spatial Evolutionary Generative Adversarial Networks&lt;/em&gt; has been accepted as a FULL PAPER to be presented during &lt;a href=&quot;https://gecco-2019.sigevo.org/&quot; title=&quot;GECCO 2019&quot;&gt;GECCO 2019&lt;/a&gt;. GECCO is one of the most important conferences in the field of evolutionary computation.&lt;/p&gt;
 
 &lt;p&gt;The full paper can be found &lt;a href=&quot;http://alfagroup.csail.mit.edu/sites/default/files/documents/2019Spatial_Evolutionary_Generative_Adversarial_Networks.pdf&quot; title=&quot;FULL PAPER&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 
@@ -126,9 +126,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000//publications/gecco-submitted/</id>
+			<id>https://jamaltoutouh.github.io//publications/gecco-submitted/</id>
 			<title>Paper Submitted to GECCO</title>
-			<link href="http://localhost:4000//publications/gecco-submitted/" rel="alternate" type="text/html" title="Paper Submitted to GECCO" />
+			<link href="https://jamaltoutouh.github.io//publications/gecco-submitted/" rel="alternate" type="text/html" title="Paper Submitted to GECCO" />
 			<updated>2019-02-06T00:00:00-05:00</updated>
 
 			
@@ -146,7 +146,7 @@
 				</author>
 			
 			<summary>We have finished writing a nice paper about fosterring diversity in coevolutionary algorithms to train GANs.</summary>
-			<content type="html" xml:base="http://localhost:4000//publications/gecco-submitted/">&lt;p&gt;We are glad to inform that we have been able to prepare and show some interesting results about our research in fostering diversity when training genertive adversarial networks applying a coevolutionary mehtod. In this case, we have increased the diversity by applying different mutation operators (loss functions) during the trainig process. The proposed framework is named &lt;strong&gt;Mustangs&lt;/strong&gt; and the paper is entitled &lt;em&gt;Spatial Evolutionary Generative Adversarial Networks&lt;/em&gt;. We will be really happy if we are able to present the paper during &lt;a href=&quot;https://gecco-2019.sigevo.org/&quot; title=&quot;GECCO 2019&quot;&gt;GECCO 2019&lt;/a&gt;.&lt;/p&gt;
+			<content type="html" xml:base="https://jamaltoutouh.github.io//publications/gecco-submitted/">&lt;p&gt;We are glad to inform that we have been able to prepare and show some interesting results about our research in fostering diversity when training genertive adversarial networks applying a coevolutionary mehtod. In this case, we have increased the diversity by applying different mutation operators (loss functions) during the trainig process. The proposed framework is named &lt;strong&gt;Mustangs&lt;/strong&gt; and the paper is entitled &lt;em&gt;Spatial Evolutionary Generative Adversarial Networks&lt;/em&gt;. We will be really happy if we are able to present the paper during &lt;a href=&quot;https://gecco-2019.sigevo.org/&quot; title=&quot;GECCO 2019&quot;&gt;GECCO 2019&lt;/a&gt;.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -173,9 +173,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000//general/launched/</id>
+			<id>https://jamaltoutouh.github.io//general/launched/</id>
 			<title>NeCOL Project Website Launched</title>
-			<link href="http://localhost:4000//general/launched/" rel="alternate" type="text/html" title="NeCOL Project Website Launched" />
+			<link href="https://jamaltoutouh.github.io//general/launched/" rel="alternate" type="text/html" title="NeCOL Project Website Launched" />
 			<updated>2018-09-15T00:00:00-04:00</updated>
 
 			
@@ -193,7 +193,7 @@
 				</author>
 			
 			<summary>NeCOL is becoming a reality and we are ready to present here most of the outcomes of this project.</summary>
-			<content type="html" xml:base="http://localhost:4000//general/launched/">&lt;p&gt;NeCOL is a decir quien financia, las fechas, etc. y el tipo de cosas que vamos a publicar.&lt;/p&gt;
+			<content type="html" xml:base="https://jamaltoutouh.github.io//general/launched/">&lt;p&gt;NeCOL is a decir quien financia, las fechas, etc. y el tipo de cosas que vamos a publicar.&lt;/p&gt;
 </content>
 
 			
