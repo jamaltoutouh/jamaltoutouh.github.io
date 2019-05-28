@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000//</id>
 	<title>NeCOL</title>
-	<updated>2019-05-26T05:42:25-04:00</updated>
+	<updated>2019-05-28T10:26:54-04:00</updated>
 
 	<subtitle>This website presents the main outcomes of &lt;strong&gt;NeCOL project&lt;/strong&gt; under the &lt;strong&gt;Marie Sklodowska-Curie grant agreement No 799078&lt;/strong&gt;.</subtitle>
 
@@ -28,6 +28,69 @@
 
 	<generator uri="http://jekyllrb.com" version="3.8.5">Jekyll</generator>
 
+	
+		<entry>
+			<id>http://localhost:4000//publications/rcc-innovative_teaching/</id>
+			<title>Presenting our work about innovative teaching at Harvard</title>
+			<link href="http://localhost:4000//publications/rcc-innovative_teaching/" rel="alternate" type="text/html" title="Presenting our work about innovative teaching at Harvard" />
+			<updated>2019-05-28T00:00:00-04:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Jamal Toutouh</name>
+					
+					
+						<email>toutouh@mit.edu</email>
+					
+					
+						<uri>http://www.jamal.es/</uri>
+					
+				</author>
+			
+			<summary>We presented our work entitled Gamification to Mitigate Demotivation and Unevenness in Engineering Courses. during the International Annual Conference in Innovative Teaching: Renovating the University for Future Generations (IACIT@RCC). </summary>
+			<content type="html" xml:base="http://localhost:4000//publications/rcc-innovative_teaching/">&lt;p&gt;Our work about applying &lt;em&gt;Gamification&lt;/em&gt; in our lectures to motivate our Engineering students was accepted to be presented during the &lt;strong&gt;International Annual Conference in Innovative Teaching: Renovating the University for Future Generations (IACIT@RCC)&lt;/strong&gt; &lt;a href=&quot;https://rcc.harvard.edu/event/IACIT&quot;&gt;&lt;strong&gt;[ACIT@RCC]&lt;/strong&gt;&lt;/a&gt;, which took place at RCC–Harvard on May 16-17, 2019.&lt;/p&gt;
+
+&lt;p&gt;The main idea behind our presentation was to share our experience when teaching  Engineering degrees, in which we apply gamification to address two main issues: the students lack of motivation and the &lt;em&gt;large differences in the students back-ground and skills&lt;/em&gt; &lt;a href=&quot;https://jamaltoutouh.github.io/downloads/Gamification_RCC2019.pdf&quot;&gt;&lt;em&gt;Download the presentation&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;abstract-of-our-work&quot;&gt;Abstract of our work&lt;/h3&gt;
+&lt;p&gt;Lecturers have to face two main difficulties when teaching Engineering degrees: the students &lt;strong&gt;lack of motivation&lt;/strong&gt; and the &lt;em&gt;large differences in the students back-ground and skills&lt;/em&gt;. An innovative teaching project &lt;strong&gt;(PIE17-122)&lt;/strong&gt; funded by the University of Malaga proposes the use of &lt;strong&gt;gamification&lt;/strong&gt; as a way to mitigate such issues by converting the learning process into a funny experience.&lt;/p&gt;
+
+&lt;p&gt;Its main objectives are:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;increasing the students motivation&lt;/strong&gt; by promoting healthy competition,&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;improving cooperation&lt;/strong&gt; and &lt;strong&gt;interpersonal relationships&lt;/strong&gt; while seekinga balance among the groups,&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;fostering the loyalty&lt;/strong&gt; of the students to the subject.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The methodology applied consists of three phases: preparation, execution, and monitoring. During preparation, we design knowledge tests, games, and surveys. The execution phase consists in performing the games and surveys. The monitoring phase includes several procedures to asses the evolution of students cognitive skills, their level of motivation, and the degree of learning. The tasks performed during the monitoring phase and the feedback of the students allow the lecturers to better adapt the games and the content of the lessons to the reale volution of the students.&lt;/p&gt;
+
+&lt;p&gt;The main conclusions are:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;an improvement in the students &lt;strong&gt;engagement&lt;/strong&gt;,&lt;/li&gt;
+  &lt;li&gt;the students &lt;strong&gt;prefer games that involve ICT platforms&lt;/strong&gt; (such as, Kahoot or Socrative),&lt;/li&gt;
+  &lt;li&gt;the competitiveness among groups increases when the games have &lt;strong&gt;any kind of prize&lt;/strong&gt;,&lt;/li&gt;
+  &lt;li&gt;and applying gamification &lt;strong&gt;is not as simple as introducing games&lt;/strong&gt; in the courses, since a bad design of the games can lead to a loss of interest.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="publications" />
+			
+			
+				<category term="publication" />
+			
+				<category term="innovative teaching" />
+			
+				<category term="jamal" />
+			
+				<category term="gamification" />
+			
+
+			<published>2019-05-28T00:00:00-04:00</published>
+		</entry>
 	
 		<entry>
 			<id>http://localhost:4000//publications/swm-journal-accepted/</id>
