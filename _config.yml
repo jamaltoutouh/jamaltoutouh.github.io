@@ -17,7 +17,7 @@ slogan: 'NeCOL'
 description: 'This website presents the main outcomes of <strong>NeCOL project</strong> under the <strong>Marie Sklodowska-Curie grant agreement No 799078</strong>.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p><img src="http://jamaltoutouh.github.io/images/h2020.jpg"/></p>'
+credits: '<p><img src="https://jamaltoutouh.github.io/images/h2020.jpg"/></p>'
 
 # Main author of the website
 # See > authors.yml
