@@ -41,6 +41,27 @@
 			</item>
 		
 			<item>
+				<title>Visiting Universidad de la Republica</title>
+				<link>http://localhost:4000//communication/montevideo/</link>
+				<pubDate>Fri, 24 May 2019 00:00:00 -0400</pubDate>
+				<description>&lt;p&gt;Last week we were invited to present some of the interesting branches of our project at Universidad de la Republica in Uruguay. Thus, I gave two different seminars:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Spatial Coevolutionary Deep Neural Networks Training&lt;/strong&gt;, in which I presented &lt;em&gt;Mustangs&lt;/em&gt; and how we deal with Generative Adversarial Networks (GANs) training by applying Coevolutionary algorithms. &lt;a href=&quot;https://jamaltoutouh.github.io/downloads/Mustangs-Universidad_de_la_Republica2019.pdf&quot;&gt;&lt;em&gt;Download the presentation&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;An Artificial Coevolutionary Framework for Adversarial AI&lt;/strong&gt;, in which I showed how biological arms races motivated us to develop &lt;em&gt;RIVALS&lt;/em&gt; a cybersecurity framework based on coevolution.  &lt;a href=&quot;https://jamaltoutouh.github.io/downloads/Autonomous_Adaptive-Universidad_de_la_Republica2019.pdf&quot;&gt;&lt;em&gt;Download the presentation&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It has been really great meeting with several researchers that wanted to know more about NeCOL and that were decided to discuss with me about the most controversial parts of our research.&lt;/p&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000//communication/montevideo/</guid>
+			</item>
+		
+			<item>
 				<title>Smart waste management by using integer programming</title>
 				<link>http://localhost:4000//publications/swm-journal-accepted/</link>
 				<pubDate>Sun, 05 May 2019 00:00:00 -0400</pubDate>
