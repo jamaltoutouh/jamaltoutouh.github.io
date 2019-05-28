@@ -9,7 +9,7 @@
 #  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
 
 - name: Twitter
-  url: http://twitter.com/jamtouh
+  url: http://twitter.com/jamtou
   class: icon-twitter
   title: "Twitter"
 
@@ -33,10 +33,10 @@
 #   class: icon-soundcloud
 #   title: ""
 
-# - name: Instagram
-#   url: http://instagram.com/
-#   class: icon-instagram
-#   title: ""
+- name: Instagram
+  url: http://instagram.com/jamalito/
+  class: icon-instagram
+  title: ""
 
 # - name: Pinterest
 #   url: http://www.pinterest.com/
