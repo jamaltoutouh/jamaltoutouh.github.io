@@ -30,4 +30,4 @@ tags:
 ### Posters:
 1. A System that Scales Robust Generative Adversarial Network Training *presented in the MIT College of Computing poster session 2019.*
 2. Mustangs: Robust Training of Generative Adversarial Networks by Fostering Diversity *presented in the MIT-IBM Watson AI Lab networking and poster reception 2019.*
-3. Coevolutionary GANs Training to Foster Diversity *presented in the GANocracy: Democratizing GANs 2019.
+3. Coevolutionary GANs Training to Foster Diversity *presented in the GANocracy: Democratizing GANs 2019*.
