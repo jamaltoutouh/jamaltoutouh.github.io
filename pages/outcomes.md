@@ -20,8 +20,9 @@ tags:
 
 ### Journals:
 
-2. D. G. Rossit, S. Nesmachnow, and J. Toutouh (2019). A bi-objective integer programming model for locating garbage accumulation points: a case study. *Revista de Ingeniería* [in Press](https://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/335926). 
-1. J. Toutouh, J. Arellano, and E. Alba (2018). BiPred: A Bilevel Evolutionary Algorithm for Prediction in Smart Mobility. *Sensors*, 18(12), 4123. [https://doi.org/10.3390/s18124123](https://doi.org/10.3390/s18124123) 
+3. J. Toutouh, D. G. Rossit, and S. Nesmachnow (2019). Soft computing methods for multiobjective locationof garbage accumulation points in smart cities. *Annals of Mathematics and Artificial Intelligence* *(In Pres)* [doi: 0.1007/s10472-019-09647-5](https://doi.org/0.1007/s10472-019-09647-5).
+2. D. G. Rossit, S. Nesmachnow, and J. Toutouh (2019). A bi-objective integer programming model for locating garbage accumulation points: a case study. *Revista de Ingeniería* *(In Pres)* [doi: 10.17533/udea.redin.20190509](https://doi.org/10.17533/udea.redin.20190509). 
+1. J. Toutouh, J. Arellano, and E. Alba (2018). BiPred: A Bilevel Evolutionary Algorithm for Prediction in Smart Mobility. *Sensors*, 18(12), 4123. [doi: 10.3390/s18124123](https://doi.org/10.3390/s18124123) 
 
 ### Conferences:
 
