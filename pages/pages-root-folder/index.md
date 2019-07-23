@@ -6,7 +6,8 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: header_unsplash_12.jpg 
+  ##necol_header.jpg 
   
 title:  "Welcome to NeCOL"
 subheadline:  "An Innovative Methodology for Building Better Deep Learning Tools for Real Word Applications"
