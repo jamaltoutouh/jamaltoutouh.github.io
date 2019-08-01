@@ -5,7 +5,7 @@ layout: page
 #
 
 subheadline: "Spatial Evolutionary Generative Adversarial Networks paper presented in GECCO 2019"
-title: "Mustangs presented in GECCO 2019"
+title: "Mustangs in GECCO 2019"
 teaser: "My colleagues were at GECCO 2019 presenting our last  research about evolutionary computing, including of course, Mustangs."
 categories:
   - publications
@@ -43,7 +43,7 @@ The paper is entitled *Spatial Evolutionary Generative Adversarial Networks* and
 
 [Erik Hemberg](https://alfagroup.csail.mit.edu/erik "Erik") was in charge to present this work to the audience, that showed a lot of interest during the session.  We had very fruitful feedback, which would open new and excited research lines.
 
-The *presentation* can be downloaded from [*here*](https://jamaltoutouh.github.io/downloads/GECCO-2019-Mustangs)
+The *presentation* can be downloaded from [*here*](https://jamaltoutouh.github.io/downloads/GECCO-2019-Mustangs.pdf)
 
 As we are working in this interesting project for Deep Learning community, we will be able to report new, stimulating, and remarkable results in short period of time.
 
