@@ -19,7 +19,7 @@ tags:
 #
 header: no
 image: 
-#    title: mediaplayer_js-title.jpg
+    title: gecco2019-main-home.jpg
     thumb: gecco2019-logo.jpg
     homepage: brussels_header.jpg
 #    caption: Photo by Corey Blaz
