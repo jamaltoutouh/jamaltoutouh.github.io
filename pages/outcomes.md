@@ -27,7 +27,8 @@ tags:
 
 ### Conferences:
 
-1. Jamal Toutouh, Erik Hemberg, and Una-May O’Reilly. 2019. Spatial Evolutionary Generative Adversarial Networks. In *Genetic and Evolutionary Computation Conference (GECCO ’19), July 13–17, 2019, Prague, Czech Republic.* ACM, New York, NY, USA, 9 pages. [https://doi.org/10.1145/3321707.3321860](http://arxiv.org/abs/1905.12702)
+0. Jamal Toutouh, Erik Hemberg, and Una-May O’Reilly. 2019. Spatial Evolutionary Generative Adversarial Networks. In *Genetic and Evolutionary Computation Conference (GECCO ’19), July 13–17, 2019, Prague, Czech Republic.* ACM, New York, NY, USA, 9 pages. [https://doi.org/10.1145/3321707.3321860](http://arxiv.org/abs/1905.12702)
+{: reversed="reversed"}
 
 ### Posters:
 0. A System that Scales Robust Generative Adversarial Network Training *presented in the MIT College of Computing poster session 2019.*
