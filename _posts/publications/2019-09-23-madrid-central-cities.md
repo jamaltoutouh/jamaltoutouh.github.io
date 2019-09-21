@@ -6,7 +6,7 @@ layout: page
 
 subheadline: "Data Science has been applied to analyze the impact on the environment of this measure."
 title: "What do science really say about Madrid Central?"
-teaser: "During ICSC-CITIES 2019 we will present our analysis about the environmental impact (air and noise pollurion) of the road restrictions. Here you have some results and the paper."
+teaser: "During ICSC-CITIES 2019 we will present our analysis about the environmental impact (air and noise pollution) of this measure. See here the main outcomes of this work."
 categories:
   - publications
 tags:
@@ -27,14 +27,9 @@ image:
 mediaplayer: false
 ---
 
-The main draft of our paper can be downloaded from [*here*](https://jamaltoutouh.github.io/downloads/lebrusan2019.pdf)
-
-
-
-
 ****
 
-TODO
+The main draft of our paper can be downloaded from [*here*](https://jamaltoutouh.github.io/downloads/lebrusan2019.pdf)
 
 ---
 
