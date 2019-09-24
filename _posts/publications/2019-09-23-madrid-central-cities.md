@@ -19,9 +19,9 @@ tags:
 #
 header: no
 image: 
-#    title: gecco2019-main-home.jpg
+    title: madrid-central-head.jpg
     thumb: madrid-central-dump.jpg
-    homepage: madrid-central-head.jpg
+    homepage: brussels_header.jpg
 #    caption: Photo by Corey Blaz
 #    caption_url: https://blaz.photography/
 mediaplayer: false
