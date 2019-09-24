@@ -58,7 +58,7 @@ We ([*Irene Lebruán, Ph.D.*](https://www.researchgate.net/profile/Irene_Lebrusa
 #### Results    
 In this post, we present the results in terms of NO2 because is the pollutant that almost lead Spain to European Court. However, in our [*paper*](https://jamaltoutouh.github.io/downloads/lebrusan2019.pdf) we evaluate more air pollutants.
 
-The following table reports the minimum (min), mean, and maximum (max) values of NO2 sensed during the evaluated periods. 
+The following table reports the minimum (min), mean, and maximum (max) values of the concentration of NO2 in the air sensed during the evaluated periods in terms of micro-grams per cubic meter. 
   
 |   | Pre-MC | | - | | Post-MC | | 
 | min        | mean           | max  | - | min        | mean           | max  |
