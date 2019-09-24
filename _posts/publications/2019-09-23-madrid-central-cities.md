@@ -33,7 +33,7 @@ This post summarizes the main outcomes of our research work entitled **Assessing
 
 
 Authors:
-- [**Irene Lebruán, Ph.D.**](https://www.researchgate.net/profile/Irene_Lebrusan_Murillo) in Sociology (Urban Sociology) and RCC Postdoctoral Researcher at Harvard University.
+- [**Irene Lebruán, Ph.D.**](https://www.researchgate.net/profile/Irene_Lebrusan_Murillo) in Sociology and RCC Postdoctoral Researcher at Harvard University.
 - [**Jamal Toutouh, Ph.D.**](https://www.jamal.es) in Computer Science and Marie-Curie Postdoctoral Fellow at Massachusetts Institute of Technology.
  
 
