@@ -29,12 +29,12 @@ mediaplayer: false
 
 ****
 
-This post summarizes the main outcomes of our research work entitled *Assessing the environmental impact of car restrictions policies: Madrid Central case*. 
+This post summarizes the main outcomes of our research work entitled **Assessing the environmental impact of car restrictions policies: Madrid Central case**. 
 
 
 Authors:
-- [*Irene Lebruán, Ph.D.*](https://www.researchgate.net/profile/Irene_Lebrusan_Murillo) in Sociology (Urban Sociology) and RCC Postdoctoral Researcher at Harvard University.
-- [*Jamal Toutouh, Ph.D.*](https://www.jamal.es) in Computer Science and Marie-Curie Postdoctoral Fellow at Massachusetts Institute of Technology.
+- [**Irene Lebruán, Ph.D.**](https://www.researchgate.net/profile/Irene_Lebrusan_Murillo) in Sociology (Urban Sociology) and RCC Postdoctoral Researcher at Harvard University.
+- [**Jamal Toutouh, Ph.D.**](https://www.jamal.es) in Computer Science and Marie-Curie Postdoctoral Fellow at Massachusetts Institute of Technology.
  
 
 ---
