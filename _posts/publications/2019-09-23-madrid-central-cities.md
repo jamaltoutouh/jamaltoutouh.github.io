@@ -5,7 +5,7 @@ layout: page
 #
 
 subheadline: "Data Science has been applied to analyze the impact on the environment of this measure."
-title: "What do science really say about Madrid Central?"
+title: "What does science really say about Madrid Central?"
 teaser: "During ICSC-CITIES 2019 we will present our analysis of the environmental impact (air and noise pollution) of this measure. See here the main outcomes of this work."
 categories:
   - publications
