@@ -33,7 +33,7 @@ Briefly, this post highlights the main outcomes of our research work entitled **
 
 
 Authors:
-- [**Irene Lebruán, Ph.D.**](https://www.researchgate.net/profile/Irene_Lebrusan_Murillo) in Sociology and RCC Postdoctoral Researcher at **Harvard University**.
+- [**Irene Lebrusán, Ph.D.**](https://www.researchgate.net/profile/Irene_Lebrusan_Murillo) in Sociology and RCC Postdoctoral Researcher at **Harvard University**.
 - [**Jamal Toutouh, Ph.D.**](https://www.jamal.es) in Computer Science and Marie-Curie Postdoctoral Fellow at **Massachusetts Institute of Technology**.
  
 
@@ -45,7 +45,7 @@ Air pollution is the top health hazard in the European Union (EU): it reduces li
 The European Union specifically demanded to Spain, under the risk of important economic sanctions, to reduce air pollutants (mainly nitrogen dioxide, NO2). Thanks to measures like Madrid Central, focused on the traffic reduction, Spain managed to stop the disciplinary action in May 2018. 
 However, this measure has been controversial, as different social and political groups consider it to be bothersome and ineffective. In fact, and after the elections (held on May, 26th 2019) the new government reversed the driving ban stated by Madrid Central, applying a moratorium to override the measure. The question here is: Was Madrid Central an effective measure to reduce air pollutants and noise? 
 
-We ([*Irene Lebruán, Ph.D.*](https://www.researchgate.net/profile/Irene_Lebrusan_Murillo), a postdoctoral researcher at Harvard and Jamal Toutouh, Ph.D., postdoctoral researcher at MIT) decided to apply Data Science to analyse the impact of Madrid Central over air quality and noise. We analyzed data gathered by the sensors installed in Madrid Central and shared though the  [Madrid Open Data Portal](https://datos.madrid.es). The temporal range of this study starts in December of 2016 and finishes in may of 2019, i.e., 30 moths groped in two periods: 24 months previous Madrid Central (Pre-MC) and six months with the car restrictions (Post-MC). The complete work, entitled [*Assessing the environmental impact of car restrictions policies: Madrid Central case*](https://jamaltoutouh.github.io/downloads/lebrusan2019.pdf), and results will presented during the [*II Ibero-American Congress of Smart Cities (ICSC-CITIES 2019)*](http://icsc-cities2019.com/EN_index.html).  
+We ([*Irene Lebrusán, Ph.D.*](https://www.researchgate.net/profile/Irene_Lebrusan_Murillo), a postdoctoral researcher at Harvard and Jamal Toutouh, Ph.D., postdoctoral researcher at MIT) decided to apply Data Science to analyse the impact of Madrid Central over air quality and noise. We analyzed data gathered by the sensors installed in Madrid Central and shared though the  [Madrid Open Data Portal](https://datos.madrid.es). The temporal range of this study starts in December of 2016 and finishes in may of 2019, i.e., 30 moths groped in two periods: 24 months previous Madrid Central (Pre-MC) and six months with the car restrictions (Post-MC). The complete work, entitled [*Assessing the environmental impact of car restrictions policies: Madrid Central case*](https://jamaltoutouh.github.io/downloads/lebrusan2019.pdf), and results will presented during the [*II Ibero-American Congress of Smart Cities (ICSC-CITIES 2019)*](http://icsc-cities2019.com/EN_index.html).  
 
 
 
