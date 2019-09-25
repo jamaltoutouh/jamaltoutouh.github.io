@@ -33,8 +33,8 @@ Briefly, this post highlights the main outcomes of our research work entitled **
 
 
 Authors:
-- [**Irene Lebruán, Ph.D.**](https://www.researchgate.net/profile/Irene_Lebrusan_Murillo) in Sociology and RCC Postdoctoral Researcher at Harvard University.
-- [**Jamal Toutouh, Ph.D.**](https://www.jamal.es) in Computer Science and Marie-Curie Postdoctoral Fellow at Massachusetts Institute of Technology.
+- [**Irene Lebruán, Ph.D.**](https://www.researchgate.net/profile/Irene_Lebrusan_Murillo) in Sociology and RCC Postdoctoral Researcher at **Harvard University**.
+- [**Jamal Toutouh, Ph.D.**](https://www.jamal.es) in Computer Science and Marie-Curie Postdoctoral Fellow at **Massachusetts Institute of Technology**.
  
 
 ---
@@ -75,8 +75,8 @@ The main draft of our paper can be downloaded from [*here*](https://jamaltoutouh
 
 ### Assessing the environmental impact of car restrictions policies: Madrid Central case
 #### Abstract
-With the increase of population living in urban areas, many transportation-related problems have grown very rapidly. Pollution causes many inhabitants health problems. A  major concern for the International Community is pollution, which causes many inhabitants health problems. Accordingly, and under the risk of fines, countries are required to reduce noise and air pollutants. As a way to do so, road restrictions policies are applied in urban areas. Evaluating objectively the benefits of this type of measures is important to asses their real impact. In this work, we analyze the application of Madrid Central (MC), which is a set of road traffic limitation measures applied in the downtown of Madrid (Spain), by using smart city tools. According to our results, MC significantly reduces the nitrogen dioxide (NO2) concentration in the air and the levels of noise in Madrid, while not arising any border effect.
 
+With the increase of population living in urban areas, many transportation-related problems have grown very rapidly. Pollution causes many inhabitants health problems. A  major concern for the International Community is pollution, which causes many inhabitants health problems. Accordingly, and under the risk of fines, countries are required to reduce noise and air pollutants. As a way to do so, road restrictions policies are applied in urban areas. Evaluating objectively the benefits of this type of measures is important to asses their real impact. In this work, we analyze the application of Madrid Central (MC), which is a set of road traffic limitation measures applied in the downtown of Madrid (Spain), by using smart city tools. According to our results, MC significantly reduces the nitrogen dioxide (NO2) concentration in the air and the levels of noise in Madrid, while not arising any border effect.
 
 
 
