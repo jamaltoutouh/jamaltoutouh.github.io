@@ -21,7 +21,7 @@ tags:
 ### Journals:
 
 0. A. Camero, J. Toutouh, J. Ferrer, and E. Alba (2019). Waste generation prediction under uncertainty in smart cities through deep neuroevolution. *Revista de Ingeniería* *(In Pres)* [doi: 10.17533/udea.redin.20190736](https://doi.org/10.17533/udea.redin.20190736). 
-0. J. Toutouh, D. G. Rossit, and S. Nesmachnow (2019). Soft computing methods for multiobjective locationof garbage accumulation points in smart cities. *Annals of Mathematics and Artificial Intelligence* *(In Pres)* [doi: 0.1007/s10472-019-09647-5](https://doi.org/0.1007/s10472-019-09647-5).
+0. J. Toutouh, D. G. Rossit, and S. Nesmachnow (2019). Soft computing methods for multiobjective location of garbage accumulation points in smart cities. *Annals of Mathematics and Artificial Intelligence* *(In Pres)* [doi: 10.1007/s10472-019-09647-5](https://link.springer.com/article/10.1007/s10472-019-09647-5).
 0. D. G. Rossit, S. Nesmachnow, and J. Toutouh (2019). A bi-objective integer programming model for locating garbage accumulation points: a case study. *Revista de Ingeniería* *(In Pres)* [doi: 10.17533/udea.redin.20190509](https://doi.org/10.17533/udea.redin.20190509). 
 0. J. Toutouh, J. Arellano, and E. Alba (2018). BiPred: A Bilevel Evolutionary Algorithm for Prediction in Smart Mobility. *Sensors*, 18(12), 4123. [doi: 10.3390/s18124123](https://doi.org/10.3390/s18124123) 
 {: reversed="reversed"}
