@@ -5,7 +5,7 @@ layout: page
 #
 
 subheadline: "Artificial Intelligence helps us to find the best location of the garbage collection points in the city. "
-title: "Where to Locate the Garbage Collection Points (Bins)?"
+title: "Where to Locate Garbage Collection Points (Bins)?"
 teaser: "We are researching about optimization problem of locating and configuring the garbage collection points. The main idea is to provide the best service to the city inhabitants while minimizing the costs. Some results have been already published."
 categories:
   - publications
