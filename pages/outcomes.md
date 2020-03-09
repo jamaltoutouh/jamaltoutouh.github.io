@@ -23,16 +23,23 @@ tags:
 *Genetic Programming and Evolvable Machines* (In Press).
 0. D. G. Rossit, J. Toutouh, S. Nesmachnow. Exact and heuristic approach for multi-objective garbage accumulation points location in real scenarios. *Waste Management*
 Vol. 105,pp. 467-481, 2020. [doi: 10.1016/j.wasman.2020.02.016](https://doi.org/10.1016/j.wasman.2020.02.016).
-0. A. Camero, J. Toutouh, J. Ferrer, and E. Alba (2019). Waste generation prediction under uncertainty in smart cities through deep neuroevolution. *Revista de Ingeniería* *(In Pres)* [doi: 10.17533/udea.redin.20190736](https://doi.org/10.17533/udea.redin.20190736). 
-0. J. Toutouh, D. G. Rossit, and S. Nesmachnow (2019). Soft computing methods for multiobjective location of garbage accumulation points in smart cities. *Annals of Mathematics and Artificial Intelligence* *(In Pres)* [doi: 10.1007/s10472-019-09647-5](https://link.springer.com/article/10.1007/s10472-019-09647-5).
-0. D. G. Rossit, S. Nesmachnow, and J. Toutouh (2019). A bi-objective integer programming model for locating garbage accumulation points: a case study. *Revista de Ingeniería* *(In Pres)* [doi: 10.17533/udea.redin.20190509](https://doi.org/10.17533/udea.redin.20190509). 
+0. A. Camero, J. Toutouh, J. Ferrer, and E. Alba (2019). Waste generation prediction under uncertainty in smart cities through deep neuroevolution. *Revista de Ingeniería*, No.93, pp. 128-138, 2019. [doi: 10.17533/udea.redin.20190736](https://doi.org/10.17533/udea.redin.20190736). 
+0. J. Toutouh, D. G. Rossit, and S. Nesmachnow (2019). Soft computing methods for multiobjective location of garbage accumulation points in smart cities. *Annals of Mathematics and Artificial Intelligence*  pp. 1-27. 2019. [doi: 10.1007/s10472-019-09647-5](https://link.springer.com/article/10.1007/s10472-019-09647-5).
+0. D. G. Rossit, S. Nesmachnow, and J. Toutouh (2019). A bi-objective integer programming model for locating garbage accumulation points: a case study. *Revista de Ingeniería*, No.93, pp. 70-81, 2019. [doi: 10.17533/udea.redin.20190509](https://doi.org/10.17533/udea.redin.20190509). 
 0. J. Toutouh, J. Arellano, and E. Alba (2018). BiPred: A Bilevel Evolutionary Algorithm for Prediction in Smart Mobility. *Sensors*, 18(12), 4123. [doi: 10.3390/s18124123](https://doi.org/10.3390/s18124123) 
 {: reversed="reversed"}
 
 ### Conferences:
-
+0. J. Toutouh, I. Lebrusan, S. Nesmachnow. Computational intelligence for evaluating the air quality in the center of Madrid, Spain. In *International Conference in Optimization and Learning (OLA2020)*, pp. 115-127., 2020. [https://doi.org/10.1007/978-3-030-41913-4_10](https://jamaltoutouh.github.io/downloads/Toutouh2020_OLA2020.pdf)
+0. G. Colacurcio, S. Nesmachnow, J. Toutouh, F. Luna, D. Rossit. Multiobjective household energy planning using evolutionary algorithms. In II Ibero-American Congress of Smart Cities (ICSC-CITIES 2019), pages 15, 2019. https://doi.org/10.1007/978-3-030-38889-8_21
+0. I. Lebrusan, J. Toutouh. Assessing the environmental impact of car restrictions policies: Madrid Central case. In II Ibero-American Congress of Smart Cities (ICSC-CITIES 2019), pages 15, 2019. [https://doi.org/10.1007/978-3-030-38889-8_2](https://jamaltoutouh.github.io/downloads/lebrusan2019.pdf)
 0. Jamal Toutouh, Erik Hemberg, and Una-May O’Reilly. 2019. Spatial Evolutionary Generative Adversarial Networks. In *Genetic and Evolutionary Computation Conference (GECCO ’19), July 13–17, 2019, Prague, Czech Republic.* ACM, New York, NY, USA, 9 pages. [https://doi.org/10.1145/3321707.3321860](http://arxiv.org/abs/1905.12702)
 {: reversed="reversed"}
+
+### Book chapters:
+0. J. Toutouh, E. Hemberg, U. O’Reilly. Data Dieting in GAN Training. H. Iba, N. Noman (Eds.), *Deep Neural Evolution - Deep Learning with Evolutionary Computation*, pages 19, Springer, 2020, Springer (In Press).
+{: reversed="reversed"}
+
 
 ### Posters:
 0. A System that Scales Robust Generative Adversarial Network Training *presented in the MIT College of Computing poster session 2019.*
@@ -41,4 +48,6 @@ Vol. 105,pp. 467-481, 2020. [doi: 10.1016/j.wasman.2020.02.016](https://doi.org/
 {: reversed="reversed"}
 
 ### Invited Talks:
-
+0. Spatial Coevolutionary Deep Neural Networks Training. Jamal Toutouh. Universidad de la Republica, Montevideo Uruguay, May 2019.
+0. An Artificial Coevolutionary Framework for Adversarial AI. Jamal Toutouh. Universidad de la Republica, Montevideo Uruguay, May 2019.
+{: reversed="reversed"}
