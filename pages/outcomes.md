@@ -30,6 +30,8 @@ Vol. 105,pp. 467-481, 2020. [doi: 10.1016/j.wasman.2020.02.016](https://doi.org/
 {: reversed="reversed"}
 
 ### Conferences:
+0. J. Toutouh, E. Hemberg, U. O’Reilly Re-purposing Heterogeneous Generative Ensembles with Evolutionary Computation In *Genetic and Evolutionary Computation Conference (GECCO ’20)*, pages. 10, 2020. [DOI: 10.1145/3377930.3390229 ](https://arxiv.org/abs/2003.13532)
+0. E. Perez, S. Nesmachnow, J. Toutouh, E. Hemberg, U. O’Reilly. Parallel/distributed implementation of cellular training for generative adversarial neural networks. In *10th IEEE Workshop Parallel/Distributed Combinatorics and Optimization (PDCO 2020)*, pages 7, 2020.
 0. J. Toutouh, I. Lebrusan, S. Nesmachnow. Computational intelligence for evaluating the air quality in the center of Madrid, Spain. In *International Conference in Optimization and Learning (OLA2020)*, pp. 115-127., 2020. [https://doi.org/10.1007/978-3-030-41913-4_10](https://jamaltoutouh.github.io/downloads/Toutouh2020_OLA2020.pdf)
 0. G. Colacurcio, S. Nesmachnow, J. Toutouh, F. Luna, D. Rossit. Multiobjective household energy planning using evolutionary algorithms. In II Ibero-American Congress of Smart Cities (ICSC-CITIES 2019), pages 15, 2019. https://doi.org/10.1007/978-3-030-38889-8_21
 0. I. Lebrusan, J. Toutouh. Assessing the environmental impact of car restrictions policies: Madrid Central case. In II Ibero-American Congress of Smart Cities (ICSC-CITIES 2019), pages 15, 2019. [https://doi.org/10.1007/978-3-030-38889-8_2](https://jamaltoutouh.github.io/downloads/lebrusan2019.pdf)
