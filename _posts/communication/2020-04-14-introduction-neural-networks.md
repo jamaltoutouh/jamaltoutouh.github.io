@@ -4,16 +4,15 @@ layout: page
 # Content
 #
 
-subheadline: "SpainAI invited me to present my research in webinar during lockdown #StayAtHome"
-title: "GANs Introdution Webinar"
-teaser: "SpainAI invited me to present my research in webinar during lockdown #StayAtHome ..."
+subheadline: "We all talk about neural networks. I think it would be nice to know what they really are. #StayAtHome ..."
+title: "Introduction to neural networks"
+teaser: "This post contains a presentation that I use to introduce the concept of Artificial Intelligence and neural networks to the general public."
 categories:
   - communication
 tags:
   - seminar
   - jamal
   - Mustangs
-  - Lipizzaner
 
 #
 # Styling

@@ -10,7 +10,7 @@ teaser: "NeCOL research was presented in two semminars at Universidad de la Repu
 categories:
   - communication
 tags:
-  - semminar
+  - seminar
   - jamal
   - Mustangs
   - RIVALS
