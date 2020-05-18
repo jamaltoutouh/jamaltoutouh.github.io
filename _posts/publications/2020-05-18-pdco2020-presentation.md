@@ -4,7 +4,7 @@ layout: page
 # Content
 #
 
-subheadline: "We present an HPCS version of Lipizzaner/Mustangs at PDCO2020 workshop."
+subheadline: "We present an HPCS version of Lipizzaner/Mustangs at PDCO2020 workshop of IPDPS 2020."
 title: "Parallel/distributed GAN training by using MPI at IPDPS2020/PDCO2020"
 teaser: "In order to allow the use of our distributed coevolutionary GAN training method, we have developed an MPI version of Lipizzaner/Mustangs, which is presented at IPDPS2020/PDCO2020."
 categories:
