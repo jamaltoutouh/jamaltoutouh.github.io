@@ -18,10 +18,10 @@ tags:
 # Styling
 #
 header: no
-image: 
-    # title: introduction-nn-logo.png
-    homepage: introduction-nn-main.png
-    thumb: introduction-nn-logo.png
+image:
+        title: introduction-nn-main.png
+        #homepage: introduction-nn-main.png
+        thumb: introduction-nn-logo.png
 #    caption: Photo by Corey Blaz
 #    caption_url: https://blaz.photography/
 mediaplayer: true
@@ -31,8 +31,11 @@ mediaplayer: true
 
 In this post, I am sharing a presentation that is part of my seminar about **Generative Adversarial Networks**. This presentation contains a set of different examples in [python of neural networks](https://github.com/generative-adversarial-networks/introduction-neural-networks) developed from their basis. The idea is to allow the learner to understand the main foundations and operation of neural networks and back-propagation.
 
+- [**Slides**](https://jamaltoutouh.github.io/downloads/presentations/introduction_to_dl.pdf)
+- [**GitHub Code:**](https://github.com/generative-adversarial-networks/introduction-neural-networks)
 
-##### [GitHub Code:](https://github.com/generative-adversarial-networks/introduction-neural-networks)
+
+##### GitHub Code
 
 - ``neuron.py`` includes the code to create a basic neuron that uses different activation functions.
 
@@ -55,11 +58,11 @@ by using step function.
   - an output layer with a neuron: o1
 
 
-![Fist slide](https://jamaltoutouh.github.io/images/introduction-nn-main.png)
+[![Fist slide](https://jamaltoutouh.github.io/images/introduction-nn-main.png)](https://jamaltoutouh.github.io/downloads/presentations/introduction_to_dl.pdf)
 
 
 
 
 
 
-https://github.com/generative-adversarial-networks/introduction-neural-networks
+
