@@ -34,7 +34,7 @@ mediaplayer: false
 
 ****
 
-Last week We [GECCO 2019](https://gecco-2019.sigevo.org/ "GECCO 2019") was held in Prague and my colleagues from ALFA went there to present some of our exiting research about evolutionary computation. 
+Last week [GECCO 2019](https://gecco-2019.sigevo.org/ "GECCO 2019") was held in Prague and my colleagues from ALFA went there to present some of our exiting research about evolutionary computation.
 
 
 A paper about our **Mustangs** framework, which is one of the pillars on which NeCOL is based, was accepted as full paper to be presented in this event.
