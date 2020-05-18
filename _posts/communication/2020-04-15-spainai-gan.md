@@ -19,9 +19,9 @@ tags:
 #
 header: no
 image: 
-#    title: montevideo-head.jpg
+    title: spain-ai.png
 #    homepage: montevideo-page.jpg
-#    thumb: montevideo-dumb.jpg
+    thumb: spain-ai.png
 #    caption: Photo by Corey Blaz
 #    caption_url: https://blaz.photography/
 mediaplayer: true
