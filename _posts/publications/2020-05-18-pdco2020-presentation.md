@@ -41,7 +41,7 @@ Thus, we are not going to New Orleans to present our work entitled **Parallel/di
 The main idea behind this study is to propose a **distributed memory parallel implementation** of our coevolutionar GAN training framework (**Lipizzaner/Mustangs**) for execution in high performance/supercomputing centers.
 The results show that the proposed implementation is able to reduce the training times and scale properly.
 
-- The paper can be seen [*here*](https://https://arxiv.org/abs/2004.04633)
+- The paper can be seen [*here*](https://arxiv.org/abs/2004.04633)
 - The presentation can be seen [*here*](https://jamaltoutouh.github.io/downloads/PDCO2020.pdf)
 
 ---
