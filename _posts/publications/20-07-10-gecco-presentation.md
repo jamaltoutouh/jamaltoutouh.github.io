@@ -19,7 +19,7 @@ tags:
 #
 header: no
 image: 
-    title: gecco2019-main-home.jpg
+    title: blog/gecco2020_slide1.PNG
     thumb: gecco2019-logo.jpg
     homepage: brussels_header.jpg
 #    caption: Photo by Corey Blaz
@@ -31,12 +31,15 @@ mediaplayer: false
 
 This year COVID-19 has not allowed us to meet in person with our colleagues of the evolutionary computing community, but this has not prevented us from organizing and assisting the amazing sessions and workshops that GECCO offers us every year.
 
-During this on-line GECCO 2020, we have presented one of our last research works related to GANs. In this case, we have presented our paper entitled [**Re-purposing Heterogeneous Generative Ensembles with Evolutionary Computation
-**](https://arxiv.org/abs/2003.13532) in which we define a new way to use Evolutionary Ensemble Learning (EEL) in such kind of special machine learning approach.
+During this on-line GECCO 2020, we have presented one of our last research works related to GANs. In this case, we have presented our paper entitled [**Re-purposing Heterogeneous Generative Ensembles with Evolutionary Computation**](https://arxiv.org/abs/2003.13532) in which we define a new way to use Evolutionary Ensemble Learning (EEL) in such kind of special machine learning approach.
+
+![GANs](https://jamaltoutouh.github.io/images/blog/gecco2020_slide3.PNG "GANs")
 
 The main idea behind this paper is to take advantage of already pre-trained heterogeneous generators according to a given loss function (optimization problem) to combine them (create mixtures of generators) in such a way that they are able to address a new optimization problem. In this case, we took 3,000 generators optimized according to the sample generation quality (FID score) and we optimized the diversity of the generated samples to address mode collapse.
 In order to do so, we defined the **Ensemble Optimization Problem** and we addressed by using two different evolutionary approaches based on **Genetic Algorithms**.
 The *presentation* can be downloaded from [*here*](https://jamaltoutouh.github.io/downloads/presentations/gecco2020_repurposing_gans.pdf)
+
+![GANs](https://jamaltoutouh.github.io/images/blog/gecco2020_slide19.PNG "GANs")
 
 As we are working in this interesting project for Deep Learning community, we will be able to report new, stimulating, and remarkable results in short period of time.
 
