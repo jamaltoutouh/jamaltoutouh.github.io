@@ -56,6 +56,12 @@ tags:
 {: reversed="reversed"}
 
 ### Invited Talks:
+0. *Webinar:* Deep Neuroevolution applied to Generative Adversarial Networks organized by Spain AI Association, April 2020.
+0. *Webinar:* Navigating to Generative Adversarial Networks, a friendly introductio organized by Spain AI Association, April 2020.
+0. *Webinar:* Lipizzaner: Distributed Coevolution for Resilient Generative Adversarial Networks Training at Universidad de la Republica, Uruguay, April 2020.
+0. *Webinar:* Applying Generative Adversarial Networks to address Real World Problems: Smart Energy Forecasting at Universidad de la Republica, Uruguay, April 2020.
+0. Lipizzaner: Spatially distributed coevolution for robust and resilient GAN training at Schlumberger (an industrial company that wants to use our open source framework), December 2019.
 0. Spatial Coevolutionary Deep Neural Networks Training. Jamal Toutouh. Universidad de la Republica, Montevideo Uruguay, May 2019.
 0. An Artificial Coevolutionary Framework for Adversarial AI. Jamal Toutouh. Universidad de la Republica, Montevideo Uruguay, May 2019.
 {: reversed="reversed"}
+   
