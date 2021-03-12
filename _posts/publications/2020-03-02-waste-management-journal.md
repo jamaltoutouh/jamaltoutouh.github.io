@@ -34,15 +34,17 @@ mediaplayer: false
 
 ****
 
-The main details about the article publised are the following
+Find the article [**here**](https://jamaltoutouh.github.io/downloads/wastemanagement2020.pdf) and cite as:
+Rossit, D. G., Toutouh, J., & Nesmachnow, S. (2020). **Exact and heuristic approaches for multi-objective garbage accumulation points location in real scenarios**. *Waste Management*, 105, 467-481.
+https://doi.org/10.1016/j.wasman.2020.02.016
 
 ---
 
-### Parallel/distributed implementation of cellular training for generative adversarial neural networks
+### Exact and heuristic approaches for multi-objective garbage accumulation points location in real scenarios
 #### Abstract
 Generative adversarial networks (GANs) are widely used to learn generative models. GANs consist of two networks, a generator and a discriminator, that apply adversarial learning to optimize their parameters. This article presents a parallel/distributed implementation of a cellular competitive coevolutionary method to train two populations of GANs. A distributed memory parallel implementation is proposed for execution in high performance/supercomputing centers. Efficient results are reported on addressing the generation of handwritten digits (MNIST dataset samples). Moreover, the proposed implementation is able to reduce the training times and scale properly when considering different grid sizes for training.
 
-![PDCO 2020 slide](https://jamaltoutouh.github.io/images//PDCO2020-slide.jpg)
+![Illustration of the problem representation](https://github.com/jamaltoutouh/jamaltoutouh.github.io/blob/master/images/blog/waste-management-representation.jpg?raw=true "Illustration of the problem representation")
 
 
 
