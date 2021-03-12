@@ -4,8 +4,8 @@ layout: page
 # Content
 #
 
-subheadline: "We present an HPCS version of Lipizzaner/Mustangs at PDCO2020 workshop of IPDPS 2020."
-title: "Parallel/distributed GAN training by using MPI at IPDPS2020/PDCO2020"
+subheadline: "Our approach applying AI to find the best location of the bins in a city has been published in this high-impact journal."
+title: "Published our work about Smart Waste Management in the Waste Management journal"
 teaser: "In order to allow the use of our distributed coevolutionary GAN training method, we have developed an MPI version of Lipizzaner/Mustangs, which is presented at IPDPS2020/PDCO2020."
 categories:
   - publications
@@ -21,9 +21,9 @@ tags:
 #
 header: no
 image: 
-    title: IPDPS2020-header.jpg
+    title: smart_waste_management_head.jpg
     thumb: blog/logos/waste-management-logo.gif
-    homepage: IPDPS2020-header.jpg
+    homepage: brussels_header.jpg
 #    caption: Photo by Corey Blaz
 #    caption_url: https://blaz.photography/
 mediaplayer: false
