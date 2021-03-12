@@ -6,16 +6,14 @@ layout: page
 
 subheadline: "Our approach applying AI to find the best location of the bins in a city has been published in this high-impact journal."
 title: "Published our work about Smart Waste Management in the Waste Management journal"
-teaser: "In order to allow the use of our distributed coevolutionary GAN training method, we have developed an MPI version of Lipizzaner/Mustangs, which is presented at IPDPS2020/PDCO2020."
+teaser: "The research carried out about optimizing the garbage collection points' localization, and configuration provided competitive results. Waste Management journal has published our research work on this topic."
 categories:
   - publications
 tags:
   - publication
-  - pdco
+  - smart cities
   - jamal
-  - gan
-  - lipizzaner
-  - mustangs
+  - smart waste management
 #
 # Styling
 #
@@ -36,13 +34,7 @@ mediaplayer: false
 
 ****
 
-This year [IPDPS 2020](http://www.ipdps.org/ "IPDPS 2020") activities are conducted in a virtual environment.
-Thus, we are not going to New Orleans to present our work entitled **Parallel/distributed implementation of cellular training for generative adversarial neural networks**.
-The main idea behind this study is to propose a **distributed memory parallel implementation** of our coevolutionar GAN training framework (**Lipizzaner/Mustangs**) for execution in high performance/supercomputing centers.
-The results show that the proposed implementation is able to reduce the training times and scale properly.
-
-- The paper can be seen [*here*](https://arxiv.org/abs/2004.04633)
-- The presentation can be seen [*here*](https://jamaltoutouh.github.io/downloads/PDCO2020.pdf)
+The main details about the article publised are the following
 
 ---
 
