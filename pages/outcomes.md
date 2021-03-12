@@ -19,16 +19,16 @@ tags:
 
 
 ### Journals:
-0. S. Nesmachnow, G. Colacurcio, D. Rossit, J. Toutouh, and F. Luna (2021) Optimizing household energy planning in Smart cities: a multiobjective approach. *Revista Facultad de Ingeniería. Universidad de Antioquia* (In press). 
-0. I. Lebrusán and J. Toutouh (2021) Car restriction policies for better urban health: a  low emission zone in Madrid, Spain. *Air Quality, Atmosphere and Health*, 14, 333–342. [doi: 10.1007/s11869-020-00938-z]()
-0. A. Camero, J. Toutouh, and E. Alba (2020). Random error sampling-based recurrent neural network architecture optimization. *Engineering Applications of Artificial Intelligence*, Volume 96, November 2020.
+0. S. Nesmachnow, G. Colacurcio, D. Rossit, J. Toutouh, and F. Luna (2021) Optimizing household energy planning in Smart cities: a multiobjective approach. *Revista Facultad de Ingeniería. Universidad de Antioquia* (In press). [doi: 10.17533/udea.redin.20200587](https://zenodo.org/record/4574067) 
+0. I. Lebrusán and J. Toutouh (2021) Car restriction policies for better urban health: a  low emission zone in Madrid, Spain. *Air Quality, Atmosphere and Health*, 14, 333–342. [doi: 10.1007/s11869-020-00938-z](https://jamaltoutouh.github.io/downloads/Car_restriction_policies.pdf)
+0. A. Camero, J. Toutouh, and E. Alba (2020). Random error sampling-based recurrent neural network architecture optimization. *Engineering Applications of Artificial Intelligence*, Volume 96, November 2020.[doi: 10.1016/j.engappai.2020.103946](https://jamaltoutouh.github.io/downloads/eaai2020.pdf)
 0. I Lebrusán and J. Toutouh (2020) Using smart city tools to evaluate the effectiveness of a low emissions zone in Spain: Madrid Central. *Smart Cities. Special Issue: Mobility and IoT for the Smart Cities*, 3(2), 456-478. [doi: 10.3390/smartcities3020025](https://zenodo.org/record/4574092)
 0. U. O’Reilly, J. Toutouh, M. Pertierra, D. Prado-Sanchez, D. Garcia, A. Erb-Luogo, J. Kelly, and E Hemberg (2019). Adversarial Genetic Programming for Cyber Security: A Rising Application Domain Where GP Matters. *Genetic Programming and Evolvable Machines*, 21, 219–250. [doi: 10.1007/s10710-020-09389-y](https://jamaltoutouh.github.io/downloads/gp_that_matters_adversarial_sec.pdf)
 0. D. G. Rossit, J. Toutouh, S. Nesmachnow. Exact and heuristic approach for multi-objective garbage accumulation points location in real scenarios. *Waste Management* Vol. 105,pp. 467-481, 2020. [doi: 10.1016/j.wasman.2020.02.016](https://jamaltoutouh.github.io/downloads/wastemanagement2020.pdf).
 0. A. Camero, J. Toutouh, J. Ferrer, and E. Alba (2019). Waste generation prediction under uncertainty in smart cities through deep neuroevolution. *Revista de Ingeniería*, No.93, pp. 128-138, 2019. [doi: 10.17533/udea.redin.20190736](https://zenodo.org/record/3494160). 
-0. J. Toutouh, D. G. Rossit, and S. Nesmachnow (2019). Soft computing methods for multiobjective location of garbage accumulation points in smart cities. *Annals of Mathematics and Artificial Intelligence*  pp. 1-27. 2019. [doi: 10.1007/s10472-019-09647-5](https://link.springer.com/article/10.1007/s10472-019-09647-5).
-0. D. G. Rossit, S. Nesmachnow, and J. Toutouh (2019). A bi-objective integer programming model for locating garbage accumulation points: a case study. *Revista de Ingeniería*, No.93, pp. 70-81, 2019. [doi: 10.17533/udea.redin.20190509](https://doi.org/10.17533/udea.redin.20190509). 
-0. J. Toutouh, J. Arellano, and E. Alba (2018). BiPred: A Bilevel Evolutionary Algorithm for Prediction in Smart Mobility. *Sensors*, 18(12), 4123. [doi: 10.3390/s18124123](https://doi.org/10.3390/s18124123) 
+0. J. Toutouh, D. G. Rossit, and S. Nesmachnow (2019). Soft computing methods for multiobjective location of garbage accumulation points in smart cities. *Annals of Mathematics and Artificial Intelligence*  pp. 1-27. 2019. [doi: 10.1007/s10472-019-09647-5](https://zenodo.org/record/4574025).
+0. D. G. Rossit, S. Nesmachnow, and J. Toutouh (2019). A bi-objective integer programming model for locating garbage accumulation points: a case study. *Revista de Ingeniería*, No.93, pp. 70-81, 2019. [doi: 10.17533/udea.redin.20190509](https://zenodo.org/record/3462621). 
+0. J. Toutouh, J. Arellano, and E. Alba (2018). BiPred: A Bilevel Evolutionary Algorithm for Prediction in Smart Mobility. *Sensors*, 18(12), 4123. [doi: 10.3390/s18124123](https://zenodo.org/record/4576878) 
 {: reversed="reversed"}
 
 ### Conferences:
