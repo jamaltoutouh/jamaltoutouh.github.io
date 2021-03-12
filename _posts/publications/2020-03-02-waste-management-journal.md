@@ -34,7 +34,7 @@ mediaplayer: false
 
 ****
 
-Find the article [**here**](https://jamaltoutouh.github.io/downloads/wastemanagement2020.pdf) and cite as:
+Find the article [**here**](https://jamaltoutouh.github.io/downloads/wastemanagement2020.pdf) or [**here (Zenodo repository)**](https://zenodo.org/record/4598742) and cite as:
 Rossit, D. G., Toutouh, J., & Nesmachnow, S. (2020). **Exact and heuristic approaches for multi-objective garbage accumulation points location in real scenarios**. *Waste Management*, 105, 467-481.
 https://doi.org/10.1016/j.wasman.2020.02.016
 
